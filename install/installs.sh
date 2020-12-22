@@ -14,6 +14,7 @@ fi
 echo "Installing mandatory tools..."
 brew tap caskroom/versions
 brew cask install java11
+brew install openshift-cli
 brew install sbt
 brew install scala
 brew install gradle
