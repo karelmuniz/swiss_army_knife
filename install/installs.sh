@@ -26,15 +26,15 @@ brew install git
 
 
 echo "Other Cask applications..."
-brew cask install iterm2
-brew cask install caffeine
-brew cask install docker-edge
-brew cask install go2shell
-brew cask install postman
-brew cask install xquartz
-brew cask install alfred
-brew cask install textmate
-brew cask install fluor
+brew install iterm2
+brew install caffeine
+brew install docker-edge
+brew install go2shell
+brew install postman
+brew install xquartz
+brew install alfred
+brew install textmate
+brew install fluor
 
 echo "Other CLI applications..."
 brew install maven
